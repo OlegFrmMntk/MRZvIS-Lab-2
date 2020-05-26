@@ -10,4 +10,4 @@
 
 ## Вариант задания 16
 
-![Задание](https://github.com/OlegFrmMntk/MRZvIS-Lab-2/raw/master/img/task.png)
+![Задание](https://github.com/OlegFrmMntk/MRZvIS-Lab-2/raw/master/img/task.PNG)
